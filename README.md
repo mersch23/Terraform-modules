@@ -1,5 +1,4 @@
-# AOS Note Projects
-This repository contains all the reference files for the aos note projects
+
 
 ------------------------------------------------------------------------
 # AWS Hands-on Projects to Add on Your Resume 👇
